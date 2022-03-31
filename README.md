@@ -1,4 +1,4 @@
-![shikamaru](https://github.com/whitebird1016/)
+![shikamaru](https://github.com/whitebird1016/Connet-Metamask-in-React/blob/main/dash.jpg)
 
 # Getting Started with Create React App
 
